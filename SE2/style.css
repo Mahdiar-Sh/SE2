@@ -1,0 +1,39 @@
+
+    @font-face {
+      font-family: 'BTitr';
+      src: url('https://cdn.fontcdn.ir/Font/Persian/B%20Titr/B%20Titr.eot');
+      src: url('https://cdn.fontcdn.ir/Font/Persian/B%20Titr/B%20Titr.eot?#iefix') format('embedded-opentype'),
+           url('https://cdn.fontcdn.ir/Font/Persian/B%20Titr/B%20Titr.woff2') format('woff2'),
+           url('https://cdn.fontcdn.ir/Font/Persian/B%20Titr/B%20Titr.woff') format('woff'),
+           url('https://cdn.fontcdn.ir/Font/Persian/B%20Titr/B%20Titr.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    body {
+      font-family: 'Vazir', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      padding: 40px;
+      line-height: 1.8;
+    }
+
+    h1 {
+      font-family: 'BTitr', sans-serif;
+      font-size: 32px;
+      color: #2c3e50;
+      margin-bottom: 20px;
+      text-align: center;
+      font-weight: 900;
+    }
+
+    .content {
+      font-size: 18px;
+      max-width: 700px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+      margin: 0px auto;
+    }
+  
